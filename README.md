@@ -7,5 +7,5 @@
 文档地址 http://sitemap-generators.googlecode.com/svn/trunk/docs/en/sitemap-generator.html
 
 * 设置config.xml
-* pyhthon sitemap_gen.py --config=<path/config.xml>
+* pyhthon sitemap_gen.py --config=config.xml
 
